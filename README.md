@@ -1,6 +1,8 @@
 # Powerball Generator
 
 A GUI-based application to generate Powerball lottery numbers.
+
+
 ![alt text](https://github.com/johntisza/PowerballGenerator/blob/master/img/powerball_windows.png?raw=true)
 
 ## Description
